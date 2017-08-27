@@ -13,7 +13,7 @@
 * [RIT and IGM Policies](#rit-and-igm-policies)
 
 
-### Course Description
+## Course Description
 
 In this course, students will learn to create visually rich interactive experiences. It is a course in programming graphics and media, but it is also a course on the relationship between ideas and code. Students will explore topics in math and physics by building programs that simulate and visualize processes in the natural world. Assignments will include major programming projects, such as building a virtual world inhabited by digital creatures that display observable behaviors.
 
@@ -27,7 +27,7 @@ In this course, students will learn to create visually rich interactive experien
 
 <br /><br /><br />
 
-### Instructor Info
+## Instructor Info
 
 | | |
 | ------------: | ------------- |
@@ -40,7 +40,7 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 <br /><br /><br />
 
-### Important RIT Deadlines
+## Important RIT Deadlines
 
 | | |
 | ------------: | ------------- |
@@ -50,7 +50,7 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 <br /><br /><br />
 
-### Textbooks, Resources, Materials
+## Textbooks, Resources, Materials
 
 | | |
 | ------------: | ------------- |
@@ -62,27 +62,27 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 <br /><br /><br />
 
-### Topic List
+## Topic List
 
 <br /><br /><br />
 
-### Course Organization
+## Course Organization
 
 <br /><br /><br />
 
-### Grading and Late Work Policies
+## Grading and Late Work Policies
 
 <br /><br /><br />
 
-### Tips for Success
+## Tips for Success
 
 <br /><br /><br />
 
-### Getting Help
+## Getting Help
 
 <br /><br /><br />
 
-### RIT and IGM Policies
+## RIT and IGM Policies
 
 
 
