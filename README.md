@@ -19,8 +19,8 @@ In this course, students will learn to create visually rich interactive experien
 
 ### Prerequisites
 
-> * **either** IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
-> * **or** IGME-106 Game Development and Algorithmic Problem Solving II  
+> * *either* IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
+> * *or* IGME-106 Game Development and Algorithmic Problem Solving II  
 > * IGME-110 Introduction to Interactive Media 
 > * MATH-131 Discrete Mathematics
 > * MATH-185 Mathematics of Graphical Simulation I
