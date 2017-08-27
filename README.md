@@ -27,20 +27,22 @@ In this course, students will learn to create visually rich interactive experien
 
 ### Instructor Info
 
+| | |
 | ------------: | ------------- |
-| Instructor | Joe Pietruch |
-| Email | jcpigm@rit.edu |
-| Phone | (585)496-4563 |
-| Office Hours | [Vote!](https://doodle.com/poll/c58bf6syrqntdasv) |
+| **Instructor** | Joe Pietruch |
+| **Email** | jcpigm@rit.edu |
+| **Phone** | (585)496-4563 |
+| **Office Hours** | [Vote!](https://doodle.com/poll/c58bf6syrqntdasv) |
 
 I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointment!
 
 ### Important RIT Deadlines
 
+| | |
 | ------------: | ------------- |
-| Last Add/Drop | Tuesday, September 5 |
-| Last Withdrawal | Friday, November 10 |
-| Grade Challenge | (585)496-4563 |
+| **Last Add/Drop** | Tuesday, September 5 |
+| **Last Withdrawal** | Friday, November 10 |
+| **Grade Challenge** | (585)496-4563 |
 
 ### Textbooks, Resources, Materials
 
@@ -63,13 +65,9 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 
 ### Getting Help
-<<<<<<< HEAD
 
 
 
 ### RIT and IGM Policies
 
 
-=======
-### RIT and IGM Policies
->>>>>>> e4e036546de33c11f4d6e34a090597722ba26b31
