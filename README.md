@@ -68,6 +68,55 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 ## Course Organization
 
+Every day we'll have a warm-up exercise, some lecture/slides, and an exercise and/or quiz. There will be three mini-projects and a final project, along with two exams. Details below:
+
+
+
+### Attendance : 15%
+
+Attendance to each class is worth 2 points, weighted to 0.5% of your final grade. 30 classes adds up to 15%. 
+
+> * 2 - show up: easy 0.5% 
+> * 1 - notify me of an absence before class starts: consolation 0.25%
+> * 0 - no communication: 0.0%
+
+In the event that I cancel class, I will provide ample notice, and you'll receive full attendence credit for that class.
+
+
+
+### Exercises : 15%
+
+Each week we'll have an exercise. Each exercise is worth 2 points, weighted to 1% of your final grade. 15 exercises adds up to 15%.
+
+> * 2 - high effort, complete: full 1.0% 
+> * 1 - low effort, incomplete: partial 0.5%
+> * 0 - fail to turn it in: 0.0%
+
+
+
+### Quizzes : 10%
+
+Most weeks we'll have a quiz (I have 11 planned). Each quiz is worth a varying amount of points, but each one is weighted to 0.909% of your final grade (yeah, the math is strange). Quizzes will be given through myCourses, and (usually) graded automatically. They are open book / open notes / open internet - closed communication. Quizzes have no time limit, but there will be a deadline.
+
+
+
+### Projects : 40%
+
+Over the semester we'll have three mini-projects that put together the pieces we've learned in class. The course culminates in one final project where you show off what you've learned. Each project is weighted to 10% of your final grade.
+
+> * P1 - Random Placement
+> * P2 - Asteroids
+> * P3 - Humans v Zombies
+> * FP - TBD (based on where the class ends up)
+
+
+
+### Exams : 20%
+
+Two exams: one mid-term, one final. Each exam is administered through myCourses, and weighted to 10% of your final grade. A portion of each is graded automatically, but the free-response answers require my eyes (so don't panic if you see a low mark at first!).
+
+
+
 <br /><br /><br />
 
 ## Grading and Late Work Policies
