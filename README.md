@@ -19,19 +19,53 @@ In this course, students will learn to create visually rich interactive experien
 
 ### Prerequisites
 
-> * **either** IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
-> * **or** IGME-106 Game Development and Algorithmic Problem Solving II  
-> * IGME-110 Introduction to Interactive Media 
-> * MATH-131 Discrete Mathematics
-> * MATH-185 Mathematics of Graphical Simulation I
+* **either** IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
+* **or** IGME-106 Game Development and Algorithmic Problem Solving II  
+* IGME-110 Introduction to Interactive Media 
+* MATH-131 Discrete Mathematics
+* MATH-185 Mathematics of Graphical Simulation I
 
 ### Instructor Info
 
+| ------------: | ------------- |
+| Instructor | Joe Pietruch |
+| Email | jcpigm@rit.edu |
+| Phone | (585)496-4563 |
+| Office Hours | [Vote!](https://doodle.com/poll/c58bf6syrqntdasv) |
+
+I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointment!
+
 ### Important RIT Deadlines
+
+| ------------: | ------------- |
+| Last Add/Drop | Tuesday, September 5 |
+| Last Withdrawal | Friday, November 10 |
+| Grade Challenge | (585)496-4563 |
+
 ### Textbooks, Resources, Materials
+
+
+
 ### Topic List
+
+
+
 ### Course Organization
+
+
+
 ### Grading and Late Work Policies
+
+
+
 ### Tips for Success
+
+
+
 ### Getting Help
+
+
+
 ### RIT and IGM Policies
+
+
