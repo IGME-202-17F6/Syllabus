@@ -63,9 +63,13 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 
 ### Getting Help
+<<<<<<< HEAD
 
 
 
 ### RIT and IGM Policies
 
 
+=======
+### RIT and IGM Policies
+>>>>>>> e4e036546de33c11f4d6e34a090597722ba26b31
