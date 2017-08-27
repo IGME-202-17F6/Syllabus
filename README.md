@@ -54,12 +54,8 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 
 | | |
 | ------------: | ------------- |
-| **Required** | *The Nature of Code* by Daniel Shiffman
-ISBN: 978-0123944436
-Available online for free!  [http://natureofcode.com/book/](http://natureofcode.com/book/) |
-| **Optional** | *Game Programming Algorithms and Techniques* by Sanjay Madhav
-ISBN: 978-0321940155
-Available on Amazon |
+| **Required** | *The Nature of Code* by Daniel Shiffman<br />ISBN: 978-0123944436<br />Available online for free!  [http://natureofcode.com/book/](http://natureofcode.com/book/) |
+| **Optional** | *Game Programming Algorithms and Techniques* by Sanjay Madhav<br />ISBN: 978-0321940155<br />Available on Amazon |
 | **Other Readings** | Handouts, PDFs, URLs |
 | **myCourses** | Grades, Calendar |
 | **Slack** | Messaging |
