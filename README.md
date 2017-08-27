@@ -25,6 +25,8 @@ In this course, students will learn to create visually rich interactive experien
 * MATH-131 Discrete Mathematics
 * MATH-185 Mathematics of Graphical Simulation I
 
+<br /><br /><br />
+
 ### Instructor Info
 
 | | |
@@ -36,6 +38,8 @@ In this course, students will learn to create visually rich interactive experien
 
 I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointment!
 
+<br /><br /><br />
+
 ### Important RIT Deadlines
 
 | | |
@@ -44,30 +48,46 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 | **Last Withdrawal** | Friday, November 10 |
 | **Grade Challenge** | (585)496-4563 |
 
+<br /><br /><br />
+
 ### Textbooks, Resources, Materials
 
+| | |
+| ------------: | ------------- |
+| **Required** | *The Nature of Code* by Daniel Shiffman
+ISBN: 978-0123944436
+Available online for free!  [http://natureofcode.com/book/](http://natureofcode.com/book/) |
+| **Optional** | *Game Programming Algorithms and Techniques* by Sanjay Madhav
+ISBN: 978-0321940155
+Available on Amazon |
+| **Other Readings** | Handouts, PDFs, URLs |
+| **myCourses** | Grades, Calendar |
+| **Slack** | Messaging |
 
+<br /><br /><br />
 
 ### Topic List
 
-
+<br /><br /><br />
 
 ### Course Organization
 
-
+<br /><br /><br />
 
 ### Grading and Late Work Policies
 
-
+<br /><br /><br />
 
 ### Tips for Success
 
-
+<br /><br /><br />
 
 ### Getting Help
 
-
+<br /><br /><br />
 
 ### RIT and IGM Policies
 
 
+
+<br /><br /><br />
