@@ -9,7 +9,6 @@
 * [Course Organization](#course-organization)
 * [Grading and Late Work Policies](#grading-and-late-work-policies)
 * [Tips for Success](#tips-for-success)
-* [Getting Help](#getting-help)
 * [RIT and IGM Policies](#rit-and-igm-policies)
 
 
@@ -19,8 +18,8 @@ In this course, students will learn to create visually rich interactive experien
 
 ### Prerequisites
 
-* **either** IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
-* **or** IGME-106 Game Development and Algorithmic Problem Solving II  
+* *either* IGME-201 New Media Interactive Design and Algorithmic Problem Solving III
+* *or* IGME-106 Game Development and Algorithmic Problem Solving II  
 * IGME-110 Introduction to Interactive Media 
 * MATH-131 Discrete Mathematics
 * MATH-185 Mathematics of Graphical Simulation I
@@ -63,6 +62,21 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 <br /><br /><br />
 
 ## Topic List
+
+Roughly speaking, here is what we'll be covering over the course of the semester:
+
+* Git, GitHub, Version Control
+* Introduction to Unity 3D
+* 3D Coordinate Systems
+* Exploration of Randomness
+* Mathematical Foundations
+* Vectors and Movement
+* Approximating Physics and Movement
+* Steering Algorithms
+* Flocking Algorithms
+* Collision Detection Strategies
+* Autonomous Agents with Simple AI
+* Basic Obstacle Avoidance
 
 <br /><br /><br />
 
@@ -121,13 +135,34 @@ Two exams: one mid-term, one final. Each exam is administered through myCourses,
 
 ## Grading and Late Work Policies
 
+Attendence, Exercises, and Quizzes are reasonably clear-cut. If you have a dispute, come talk to me and we'll resolve it. Generally speaking, I do not accept late work. These items are worth few enough points, anyway.
+
+Projects will be graded once after the due date. After receiving your grade, you will have one week to make improvements and resubmit for a better grade. If you did not submit your project on time, you still have until the end of the resubmit period to get something in, but you will be docked 10% of the project's value and lose the opportunity to resubmit. (An exception to this is the final project, in that resubmissions will only be allowed if a higher grade would affect your letter grade - and then, only between the due date and the day final grades are due.)
+
+If at all humanly possible, please take the Exams at the offered time. If you must miss an exam, we can schedule a make-up - but I'd really really prefer it not come to that.
+
+Final grades are divided according to the percentage of weighted points earned over the semester. The letter grade breakdown is as follows:
+
+| Percentage Range | Grade |
+| ---------------: | ----- |
+| 93 - 100 | A |
+| 90 - 92.99 | A- |
+| 87 - 89.99 | B+ |
+| 83 - 86.99 | B |
+| 80 - 82.99 | B- |
+| 77 - 79.99 | C+ |
+| 73 - 76.99 | C |
+| 70 - 72.99 | C- |
+| 60 - 69.99 | D |
+| 0 - 59.99 | F |
+
 <br /><br /><br />
 
 ## Tips for Success
 
-<br /><br /><br />
+**Be present in class.** This includes being physically in the room, as well as mentally attentive. Stay off Facebook / Steam / your phone during class time. Take notes. Ask questions. Be where you are when you're there!
 
-## Getting Help
+**When in doubt, ask me!** I try to make myself super-available between slack, email, office hours. If you're struggling, if you need help, if something comes up, if you just want to say hello - send me a messgae!
 
 <br /><br /><br />
 
