@@ -10,6 +10,7 @@
 * [Grading and Late Work Policies](#grading-and-late-work-policies)
 * [Tips for Success](#tips-for-success)
 * [RIT and IGM Policies](#rit-and-igm-policies)
+* [Change Notice](#change-notice)
 
 
 ## Course Description
@@ -174,10 +175,13 @@ Final grades are divided according to the percentage of weighted points earned o
 
 ## RIT and IGM Policies
 
-* [RIT Academic Integrity](http://www.rit.edu/academicaffairs/policiesmanual/sectionD/D8.html)
+* [RIT Academic Integrity](https://www.rit.edu/academicaffairs/policiesmanual/d080)
 * [IGM Academic Integrity](./policy/igm_academic_integrity.md)
 * [RIT Discrimination Policy](./policy/rit_discrimination.md)
 * [RIT ADA Statement](./policy/rit_ada.md)
 
-
 <br /><br /><br />
+
+## Change Notice
+
+Lastly, these policies are subject to change. You can see the history in GitHub, and I'll notify you by email any time a change is to take place.
