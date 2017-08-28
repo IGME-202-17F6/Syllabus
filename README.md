@@ -169,7 +169,7 @@ Final grades are divided according to the percentage of weighted points earned o
 
 **Read!** The reading assignments are meant to help further your understanding of the software and course materail. Take notes as you read, and come to class with questions about anything that was unclear.
 
-**File Handling** Work off of the D:/ drive. Back up everything (if you only have one copy, you actually have zero copies!). Use GitHub, too!
+**File Handling** Work off of the D:/ drive. When possible, sit in the same seat every day. Back up everything (if you only have one copy, you actually have zero copies!). Use GitHub, too!
 
 <br /><br /><br />
 
