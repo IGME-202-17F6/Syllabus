@@ -45,7 +45,7 @@ I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointmen
 | ------------: | ------------- |
 | **Last Add/Drop** | Tuesday, September 5 |
 | **Last Withdrawal** | Friday, November 10 |
-| **Grade Challenge** | (585)496-4563 |
+| **Grade Challenge** | Friday, March 9 |
 
 <br /><br /><br />
 
@@ -164,10 +164,20 @@ Final grades are divided according to the percentage of weighted points earned o
 
 **When in doubt, ask me!** I try to make myself super-available between slack, email, office hours. If you're struggling, if you need help, if something comes up, if you just want to say hello - send me a messgae!
 
+**Get Help Early and Often!** As with many things, the material for this class builds on itself. If you struggle with the core concepts, and then wait a few weeks to ask for help, you'll have a harder time later on! Whereas if you get help as you need it, we can shore up things early and have a strong foundation to build on!
+
+**Read!** The reading assignments are meant to help further your understanding of the software and course materail. Take notes as you read, and come to class with questions about anything that was unclear.
+
+**File Handling** Work off of the D:/ drive. Back up everything (if you only have one copy, you actually have zero copies!). Use GitHub, too!
+
 <br /><br /><br />
 
 ## RIT and IGM Policies
 
+* [RIT Academic Integrity](http://www.rit.edu/academicaffairs/policiesmanual/sectionD/D8.html)
+* [IGM Academic Integrity](./policy/igm_academic_integrity.md)
+* [RIT Discrimination Policy](./policy/rit_discrimination.md)
+* [RIT ADA Statement](./policy/rit_ada.md)
 
 
 <br /><br /><br />
