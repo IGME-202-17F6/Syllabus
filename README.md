@@ -35,7 +35,7 @@ In this course, students will learn to create visually rich interactive experien
 | **Instructor** | Joe Pietruch |
 | **Email** | jcpigm@rit.edu |
 | **Phone** | (585)496-4563 |
-| **Office Hours** | Wednesdays 6-8pm<br />Sundays 2-4pm |
+| **Office Hours** | GOL-2350<br />Wednesdays 6-8pm<br />Sundays 2-4pm |
 
 I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointment!
 
