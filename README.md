@@ -10,6 +10,7 @@
 * [Grading and Late Work Policies](#grading-and-late-work-policies)
 * [Tips for Success](#tips-for-success)
 * [RIT and IGM Policies](#rit-and-igm-policies)
+* [Travel Exception](#travel-exception)
 * [Change Notice](#change-notice)
 
 
@@ -34,7 +35,7 @@ In this course, students will learn to create visually rich interactive experien
 | **Instructor** | Joe Pietruch |
 | **Email** | jcpigm@rit.edu |
 | **Phone** | (585)496-4563 |
-| **Office Hours** | [Vote!](https://doodle.com/poll/c58bf6syrqntdasv) |
+| **Office Hours** | GOL-2350<br />Wednesdays 6-8pm<br />Sundays 2-4pm |
 
 I'm also available [on slack](https://igme-202-17f6.slack.com) and by appointment!
 
@@ -179,6 +180,16 @@ Final grades are divided according to the percentage of weighted points earned o
 * [IGM Academic Integrity](./policy/igm_academic_integrity.md)
 * [RIT Discrimination Policy](./policy/rit_discrimination.md)
 * [RIT ADA Statement](./policy/rit_ada.md)
+
+<br /><br /><br />
+
+## Travel Exception
+
+I work remote full-time for Forbes as a front-end web developer. This requires occassional business trips. In the event that I am out-of town for a class:
+
+1. All students will receive full attendance credit for that class.
+1. I will provide materials for class (slides, readings, exercises).
+1. I will attempt to host the class over Slack as a video call.
 
 <br /><br /><br />
 
