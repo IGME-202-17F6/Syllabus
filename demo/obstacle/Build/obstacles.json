@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "obstacles.data.unityweb",
+"asmCodeUrl": "obstacles.asm.code.unityweb",
+"asmMemoryUrl": "obstacles.asm.memory.unityweb",
+"asmFrameworkUrl": "obstacles.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
